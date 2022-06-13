@@ -34,8 +34,8 @@ $_['text_missing']           = 'Manquant';
 // Error
 $_['error_version']          = 'Attention : vous devez utiliser PHP 5.4 ou supérieur pour qu&rsquo;OpenCart fonctionne!';
 $_['error_file_upload']      = 'Attention : file_uploads doit être activé!';
-$_['error_session']          = 'Attention : OpenCart ne fonctionnera pas avec session.auto_start activé!';
-$_['error_db']               = 'Attention : Une extension de base de données doit être activé dans le fichier php.ini pour qu&rsquo;OpenCart fonctionne!';
+$_['error_session']          = 'Attention : openCart ne fonctionnera pas avec session.auto_start activé!';
+$_['error_db']               = 'Attention : une extension de base de données doit être activé dans le fichier php.ini pour qu&rsquo;OpenCart fonctionne!';
 $_['error_gd']               = 'Attention : l&rsquo;extension GD doit être activée pour qu&rsquo;OpenCart fonctionne!';
 $_['error_curl']             = 'Attention : l&rsquo;extension CURL doit être activée pour qu&rsquo;OpenCart fonctionne!';
 $_['error_openssl']          = 'Attention : l&rsquo;extension OpenSSL doit être activée pour qu&rsquo;OpenCart fonctionne!';
