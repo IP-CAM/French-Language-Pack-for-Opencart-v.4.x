@@ -1,4 +1,4 @@
-# opencart4-fr
+# opencart4-french
 
 ## Introduction
 
