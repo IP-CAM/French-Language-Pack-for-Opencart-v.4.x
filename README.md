@@ -2,11 +2,18 @@
 
 ## Introduction
 
-Pack de langue française pour [opencart 4.0.0.0](https://github.com/opencart/opencart/releases/tag/4.0.0.0) (admin/catalog/install)
+Pack de langue française pour [opencart 4.0.0.0](https://github.com/opencart/opencart/releases/tag/4.0.0.0) (admin/catalog/install/extension)
 
 ## Installation 
 
-Extraire les répertoires `admin/language/fr-FR` et `catalog/language/fr-FR` dans le répertoire `upload` de votre site.
+Extraire les répertoires :
+
+- `admin/language/fr-FR`  
+- `catalog/language/fr-FR`
+- `extension/opencart/admin/language/fr-FR`
+- `extension/opencart/catalog/language/fr-FR`
+
+dans le répertoire `upload` de votre site.
 
 __A partir de l'installation par défaut (en langue anglaise)__
 
@@ -27,7 +34,14 @@ __A partir de l'installation par défaut (en langue anglaise)__
 
 ## Nouvelle Installation
 
-Extraire les répertoires `admin/language/fr-FR`, `catalog/language/fr-FR` et `install` dans le répertoire `upload` de votre site.
+Extraire le contenu des répertoires : 
+
+- `admin/language/fr-FR`
+- `catalog/language/fr-FR` 
+- `install` 
+- `extension/opencart`
+
+dans le répertoire `upload` de votre site.
 
 1. Suivre la procédure d'installation classique (Langage Francais disponible sur la procédure d'installation)
 2. L'étape 4/4 de l'installation exécute les requêtes de `opencart.sql` et installe l'environnement français par défaut ainsi que les données (catégories, produits ...)
