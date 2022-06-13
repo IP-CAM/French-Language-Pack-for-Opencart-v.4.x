@@ -34,7 +34,7 @@ __A partir de l'installation par défaut (en langue anglaise)__
 
 ## Nouvelle Installation
 
-Extraire le contenu des répertoires : 
+Extraire les répertoires : 
 
 - `admin/language/fr-FR`
 - `catalog/language/fr-FR` 
