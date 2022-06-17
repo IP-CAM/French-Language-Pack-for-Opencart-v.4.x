@@ -16,4 +16,4 @@ $_['entry_sort_order']   = 'Ordre de tri';
 
 // Error
 $_['error_permission']   = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les paramètres du module Chèque / Mandat !';
-$_['error_payable']      = 'Le champ Payable à est requis !';
+$_['error_payable']      = 'Le champ "Payable à" est requis !';

@@ -3,7 +3,7 @@
 $_['text_refine']      = 'Affiner la recherche';
 $_['text_product']     = 'Produits';
 $_['text_error']       = 'La catégorie est introuvable !';
-$_['text_no_results']  = 'Il n y a aucun produit disponible dans cette catégorie.';
+$_['text_no_results']  = 'Il n&rsquo;y a aucun produit disponible dans cette catégorie.';
 $_['text_compare']     = 'Produits comparés (%s)';
 $_['text_sort']        = 'Trier par : ';
 $_['text_default']     = 'Par défaut';

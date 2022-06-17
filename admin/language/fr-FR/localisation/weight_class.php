@@ -24,7 +24,7 @@ $_['help_value']       = 'Assigner la valeur à 1.00000 s&rsquo;il s&rsquo;agit 
 
 // Error
 $_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les unités de poids !';
-$_['error_title']      = 'Le nom de l&rsquo;unité de poids doit être compris entre 3 et 32 caractères !';
+$_['error_title']      = 'Le nom de l&rsquo;unité de poids doit être comprise entre 3 et 32 caractères !';
 $_['error_unit']       = 'L&rsquo;unité de poids doit être compris entre 1 et 4 caractères !';
 $_['error_default']    = 'Attention : cette unité de poids ne peut être supprimée car elle est actuellement assignée comme unité de poids par défaut !';
 $_['error_product']    = 'Attention : cette unité de poids ne peut être supprimée car elle est actuellement attribuée à %s produits !';

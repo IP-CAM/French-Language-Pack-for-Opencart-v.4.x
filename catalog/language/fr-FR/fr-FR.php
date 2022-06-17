@@ -18,7 +18,7 @@ $_['text_select']           = ' ---sélectionner--- ';
 $_['text_all_zones']        = 'Toutes les zones';
 $_['text_pagination']       = 'Affichage %d à %d sur %d (%d pages)';
 $_['text_loading']          = 'Chargement en cours';
-$_['text_no_results']       = 'Aucun résultat!';
+$_['text_no_results']       = 'Aucun résultat !';
 $_['text_just_now']         = 'Juste maintenant';
 $_['text_seconds_ago']      = 'Il y a %s secondes';
 $_['text_minute_ago']       = 'Il y a %s minute';
@@ -83,7 +83,7 @@ $_['error_upload_7']        = 'Attention : impossible d&rsquo;écrire le fichier
 $_['error_upload_8']        = 'Attention : envoi de fichier bloqué par extension !';
 $_['error_upload_999']      = 'Attention : aucun code d&rsquo;erreur disponible !';
 $_['error_upload_size']     = 'Attention : le fichier téléchargé dépasse la taille de fichier maximale %smb !';
-$_['error_curl']            = 'CURL : code d&rsquo;erreur (%s): %s';
+$_['error_curl']            = 'CURL : code d&rsquo;erreur (%s) : %s';
 $_['error_session']         = 'Attention : la session a expiré, veuillez soumettre à nouveau le formulaire !';
 
 /* When doing translations only include the matching language code */

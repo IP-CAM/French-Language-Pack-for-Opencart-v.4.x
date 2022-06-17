@@ -28,5 +28,5 @@ $_['entry_priority']    = 'Priorité';
 // Error
 $_['error_permission']  = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les types de taxes !';
 $_['error_title']       = 'Le nom du type de taxe doit être compris entre 3 et 32 caractères !';
-$_['error_description'] = 'La description du type de taxe doit être compris entre 3 et 255 caractères !';
-$_['error_product']     = 'Attention : ce type de taxes ne peut être supprimé car elle est actuellement attribuée à %s produits !';
+$_['error_description'] = 'La description du type de taxe doit être comprise entre 3 et 255 caractères !';
+$_['error_product']     = 'Attention : ce type de taxe ne peut être supprimé car il est actuellement attribuée à %s produits !';

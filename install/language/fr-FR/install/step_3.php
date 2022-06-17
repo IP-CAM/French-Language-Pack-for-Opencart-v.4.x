@@ -27,13 +27,13 @@ $_['entry_email']            = 'E-mail';
 
 // Error
 $_['error_db_driver']        = 'Pilote de base de données requis !';
-$_['error_db_hostname']      = 'Nom d&rsquo;hôte requis!';
-$_['error_db_username']      = 'Nom d&rsquo;utilisateur requis!';
-$_['error_db_database']      = 'Nom de la base de données requis!';
-$_['error_db_port']          = 'Port de base de données requis!';
+$_['error_db_hostname']      = 'Nom d&rsquo;hôte requis !';
+$_['error_db_username']      = 'Nom d&rsquo;utilisateur requis !';
+$_['error_db_database']      = 'Nom de la base de données requis !';
+$_['error_db_port']          = 'Port de base de données requis !';
 $_['error_db_prefix']        = 'Le préfixe de base de données ne peut contenir que des minuscules dans la plage a-z, 0-9 et des underscores';
-$_['error_db_connect']       = 'Erreur: Impossible de se connecter à la base de données, assurez-vous que le serveur, le nom d&rsquo;utilisateur et le mot de passe de la base de données sont corrects!';
-$_['error_username']         = 'Nom d&rsquo;utilisateur requis!';
-$_['error_password']         = 'Mot de passe requis!';
-$_['error_email']            = 'E-mail invalide!';
-$_['error_config']           = 'Erreur: Impossible d&rsquo;écrire dans le fichier config.php, veuillez vérifier que vous avez défini les droits appropriées sur le fichier';
+$_['error_db_connect']       = 'Erreur : Impossible de se connecter à la base de données, assurez-vous que le serveur, le nom d&rsquo;utilisateur et le mot de passe de la base de données sont corrects !';
+$_['error_username']         = 'Nom d&rsquo;utilisateur requis !';
+$_['error_password']         = 'Mot de passe requis !';
+$_['error_email']            = 'E-mail invalide !';
+$_['error_config']           = 'Erreur : Impossible d&rsquo;écrire dans le fichier config.php, veuillez vérifier que vous avez défini les droits appropriés sur le fichier';

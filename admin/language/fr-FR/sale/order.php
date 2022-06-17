@@ -3,7 +3,7 @@
 $_['heading_title']           = 'Commandes';
 
 // Text
-$_['text_success']            = 'Succès : vous avez modifié les commandes!';
+$_['text_success']            = 'Succès : vous avez modifié les commandes !';
 $_['text_list']               = 'Liste de commande';
 $_['text_add']                = 'Ajouter une commande';
 $_['text_edit']               = 'Modifier la commande';
@@ -25,8 +25,8 @@ $_['text_commission_remove']  = 'Succès : commission supprimée !';
 $_['text_restock']            = 'Succès : les produits ont été réapprovisionnés !';
 $_['text_upload']             = 'Votre fichier a été téléchargé avec succès !';
 $_['text_subscription']       = 'Abonnement';
-$_['text_more']               = 'Plus..';
-$_['text_less']               = 'Moins..';
+$_['text_more']               = 'Plus...';
+$_['text_less']               = 'Moins...';
 $_['text_payment_address']    = 'Adresse de paiement';
 $_['text_payment_method']     = 'Méthode de paiement';
 $_['text_shipping_address']   = 'Adresse de livraison';
@@ -118,8 +118,8 @@ $_['entry_date_modified']    = 'Date de modification';
 $_['help_override']          = 'Si la commande du client est bloquée sur le changement  de statut de la commande en raison d&rsquo;une extension anti-fraude - permettre d&rsquo;ignorer.';
 
 // Error
-$_['error_warning']          = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs!';
-$_['error_permission']       = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les commandes!';
+$_['error_warning']          = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs !';
+$_['error_permission']       = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les commandes !';
 $_['error_invoice_no']       = 'Attention : le numéro de facture a déjà été créé !';
 $_['error_order']            = 'Attention : la commande n&rsquo;existe pas !';
 $_['error_affiliate']        = 'Attention : l&rsquo;affilié n&rsquo;existe pas !';

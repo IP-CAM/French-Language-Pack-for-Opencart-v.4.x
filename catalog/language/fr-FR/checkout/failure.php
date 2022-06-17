@@ -8,7 +8,7 @@ $_['text_checkout'] = 'Valider la commande';
 $_['text_failure']  = '&Eacute;chec du paiement';
 $_['text_message']  = '<p>Un problème a été rencontré lors du traitement de votre paiement et la commande n&rsquo;a pas été effectuée.</p>
 
-<p>Les raisons possibles sont:</p>
+<p>Les raisons possibles sont : </p>
 <ul>
   <li>Fonds insuffisants</li>
   <li>&Eacute;chec de la vérification</li>

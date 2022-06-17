@@ -14,8 +14,8 @@ $_['entry_zone']           = 'Département';
 $_['entry_postcode']       = 'Code postal';
 
 // Error
-$_['error_postcode']       = 'Le code postal doit être compris entre 2 et 10 caractères!';
-$_['error_country']        = 'Veuillez sélectionner un pays!';
+$_['error_postcode']       = 'Le code postal doit être compris entre 2 et 10 caractères !';
+$_['error_country']        = 'Veuillez sélectionner un pays !';
 $_['error_zone']           = 'Veuillez sélectionner un département / région !';
-$_['error_shipping']       = 'Attention : méthode d&rsquo;expédition requise!';
-$_['error_no_shipping']    = 'Attention : aucune option de livraison n&rsquo;est disponible. Veuillez <a href="%s"> nous contacter </a> pour obtenir de l&rsquo;aide! ';
+$_['error_shipping']       = 'Attention : méthode d&rsquo;expédition requise !';
+$_['error_no_shipping']    = 'Attention : aucune option de livraison n&rsquo;est disponible. Veuillez <a href="%s"> nous contacter </a> pour obtenir de l&rsquo;aide ! ';

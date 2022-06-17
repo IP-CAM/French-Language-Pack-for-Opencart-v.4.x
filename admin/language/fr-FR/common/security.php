@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']            = 'Notification de sécurité importante!';
+$_['heading_title']            = 'Notification de sécurité importante !';
 
 // Text
 $_['text_install']             = 'Répertoire d&rsquo;installation';
@@ -25,11 +25,12 @@ $_['button_move']              = 'Déplacer';
 $_['button_rename']            = 'Renommer';
 
 // Error
-$_['error_permission']         = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le répertoire de stockage!';
+$_['error_permission']         = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le répertoire de stockage !';
 $_['error_install']            = 'Attention : le répertoire d&rsquo;installation n&rsquo;existe pas !';
 $_['error_storage']            = 'Attention : le répertoire de stockage n&rsquo;existe pas !';
 $_['error_storage_exists']     = 'Attention : le nom du dossier de stockage existe déjà !';
 $_['error_admin']              = 'Attention : le répertoire Admin n&rsquo;existe pas !';
 $_['error_admin_exists']       = 'Attention : le nom du dossier Admin existe déjà !';
-$_['error_admin_name']         = 'Attention : le nom de l&rsquo;administrateur ne peut pas être `admin` car il est accessible au public !';$_['error_exists']     = 'Attention : le répertoire existe déjà!';
-$_['error_writable']           = 'Attention : config.php et admin / config.php doivent être accessibles en écriture!';
+$_['error_admin_name']         = 'Attention : le nom de l&rsquo;administrateur ne peut pas être `admin` car il est accessible au public !';
+$_['error_exists']             = 'Attention : le répertoire existe déjà !';
+$_['error_writable']           = 'Attention : config.php et admin / config.php doivent être accessibles en écriture !';

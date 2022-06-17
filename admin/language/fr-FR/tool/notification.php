@@ -11,4 +11,4 @@ $_['column_message']   = 'Message';
 $_['column_action']    = 'Action';
 
 // Error
-$_['error_permission'] = 'Attention : vous nd&rsquo;êtes pas autorisé à modifier Notifications !';
+$_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier Notifications !';

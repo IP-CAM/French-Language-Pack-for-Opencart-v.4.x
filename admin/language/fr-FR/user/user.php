@@ -34,5 +34,5 @@ $_['error_password']        = 'Le mot de passe doit être compris entre 4 et 20 
 $_['error_confirm']         = 'Le mot de passe et sa confirmation ne correspondent pas !';
 $_['error_firstname']       = 'Le prénom doit être compris entre 1 à 32 caractères !';
 $_['error_lastname']        = 'Le nom de famille doit être compris entre 1 et 32 caractères !';
-$_['error_email']           = 'L&rsquo;adresse e-mail ne semble pas être valide!';
-$_['error_exists_email']    = 'Attention : l&rsquo;adresse e-mail est déjà enregistrée!';
+$_['error_email']           = 'L&rsquo;adresse e-mail ne semble pas être valide !';
+$_['error_exists_email']    = 'Attention : l&rsquo;adresse e-mail est déjà enregistrée !';

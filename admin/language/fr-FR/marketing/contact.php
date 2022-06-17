@@ -5,7 +5,7 @@ $_['heading_title']        = 'E-mail';
 // Text
 $_['text_mail']            = 'Envoyer des e-mails aux clients';
 $_['text_success']         = 'Votre message a été envoyé avec succès !';
-$_['text_sent']            = 'Votre message a été envoyé à %s de %s!';
+$_['text_sent']            = 'Votre message a été envoyé à %s de %s !';
 $_['text_default']         = 'Par défaut';
 $_['text_newsletter']      = 'Tous les abonnés à la lettre d&rsquo;informations';
 $_['text_customer_all']    = 'Tous les clients';
