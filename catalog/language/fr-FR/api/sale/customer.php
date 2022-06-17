@@ -3,7 +3,7 @@
 $_['text_success']         = 'Vous avez modifié avec succès des clients';
 
 // Error
-$_['error_customer']       = 'Vous devez sélectionner un client!';
+$_['error_customer']       = 'Vous devez sélectionner un client !';
 $_['error_customer_group'] = 'Le groupe de clients ne semble pas valide !';
 $_['error_firstname']      = 'Le prénom doit être compris entre 1 et 32 caractères !';
 $_['error_lastname']       = 'Le nom de famille doit être compris entre 1 et 32 caractères !';

@@ -6,7 +6,7 @@ $_['text_success']     = 'Succès : la déduction de votre bon d&rsquo;achat a �
 $_['text_remove']      = 'Succès : la déduction de votre bon d&rsquo;achat a été supprimée !';
 
 // Error
-$_['error_voucher']    = 'Attention : le chèque cadeau est soit invalide soit son solde a déjà été compensé !';
+$_['error_voucher']    = 'Attention : le chèque cadeau est soit invalide, soit son solde a déjà été compensé !';
 $_['error_to_name']    = 'Le nom du destinataire doit être compris entre 1 et 64 caractères';
 $_['error_from_name']  = 'Votre nom doit être compris entre 1 et 64 caractères';
 $_['error_email']      = 'L&rsquo;adresse e-mail ne semble pas être valide !';

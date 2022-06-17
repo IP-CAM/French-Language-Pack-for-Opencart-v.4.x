@@ -39,4 +39,4 @@ $_['help_example']      = 'Afin que le système puisse pister les références, 
 $_['error_permission']  = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les campagnes de suivi marketing !';
 $_['error_name']        = 'Le nom de la campagne doit être compris entre 1 et 32 caractères !';
 $_['error_code']        = 'Le code de suivi est requis !';
-$_['error_exists']      = 'Le code de suivi est utilisé par une autre campagne!';
+$_['error_exists']      = 'Le code de suivi est utilisé par une autre campagne !';

@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Marketplace des extensions';
 
 // Text
-$_['text_success']       = 'Succès : vous avez modifié les extensions!';
+$_['text_success']       = 'Succès : vous avez modifié les extensions !';
 $_['text_list']          = 'Liste des extensions';
 $_['text_filter']        = 'Filtre';
 $_['text_search']        = 'Rechercher des extensions et des thèmes';
@@ -40,8 +40,8 @@ $_['text_comment']       = 'Commentaires';
 $_['text_download']      = 'Téléchargement';
 $_['text_install']       = 'Installation';
 $_['text_comment_add']   = 'Laissez votre commentaire';
-$_['text_write']         = '&Eacute;crivez votre commentaire ici ..';
-$_['text_purchase']      = 'Veuillez confirmer qui vous êtes!';
+$_['text_write']         = '&Eacute;crivez votre commentaire ici...';
+$_['text_purchase']      = 'Veuillez confirmer qui vous êtes !';
 $_['text_pin']           = 'Veuillez entrer votre code PIN à 4 chiffres. Ce code PIN est destiné à protéger votre compte. ';
 $_['text_secure']        = 'Ne donnez votre code PIN à personne, y compris les développeurs. Si vous avez besoin d&rsquo;un revendeur d&rsquo;extension pour installer une extension en votre nom, envoyez-lui l&rsquo;extension requise par e-mail. ';
 $_['text_name']          = 'Nom du téléchargement';
@@ -74,7 +74,7 @@ $_['button_reply']       = 'Répondre';
 $_['button_forgot_pin']  = 'PIN oublié ?';
 
 // Error
-$_['error_permission']   = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les extensions!';
-$_['error_opencart']     = 'Attention : vous devez entrer vos informations API OpenCart avant de pouvoir faire des achats!';
-$_['error_purchase']     = 'L&rsquo;extension n&rsquo;a pas pu être achetée!';
-$_['error_download']     = 'L&rsquo;extension n&rsquo;a pas pu être téléchargée!';
+$_['error_permission']   = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les extensions !';
+$_['error_opencart']     = 'Attention : vous devez entrer vos informations API OpenCart avant de pouvoir faire des achats !';
+$_['error_purchase']     = 'L&rsquo;extension n&rsquo;a pas pu être achetée !';
+$_['error_download']     = 'L&rsquo;extension n&rsquo;a pas pu être téléchargée !';

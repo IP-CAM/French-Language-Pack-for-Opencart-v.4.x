@@ -22,8 +22,8 @@ $_['column_action']     = 'Action';
 $_['entry_progress']    = 'Progression';
 
 // Error
-$_['error_permission']       = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les extensions!';
-$_['error_install']          = 'Installation de l&rsquo;extension en cours, s&rsquo;il vous plaît attendez quelques secondes avant d&rsquo;essayer de l&rsquo;installer!!';
+$_['error_permission']       = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les extensions !';
+$_['error_install']          = 'Installation de l&rsquo;extension en cours, s&rsquo;il vous plaît attendez quelques secondes avant d&rsquo;essayer de l&rsquo;installer !';
 $_['error_installed']        = 'Extension déjà installée !';
 $_['error_filename']         = 'Le nom du fichier doit contenir entre 3 et 128 caractères !';
 $_['error_file']             = 'Le fichier d&rsquo;installation %s est introuvable !';

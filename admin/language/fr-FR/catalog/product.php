@@ -101,10 +101,10 @@ $_['help_related']           = '(saisie semi-automatique)';
 $_['help_tag']               = 'Séparés par des virgules';
 
 // Error
-$_['error_warning']          = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs!';
-$_['error_permission']       = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les produits!';
-$_['error_name']             = 'Le nom du produit doit être supérieur à 1 et inférieur à 255 caractères!';
-$_['error_meta_title']       = 'Le titre de la méta-balise doit être supérieur à 1 et inférieur à 255 caractères!';
-$_['error_model']            = 'La référence du produit doit être supérieur à 1 et inférieur à 64 caractères!';
-$_['error_keyword']          = 'L&rsquo;URL SEO déjà utilisée!';
-$_['error_unique']           = 'L&rsquo;URL SEO doit être unique!';
+$_['error_warning']          = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs !';
+$_['error_permission']       = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les produits !';
+$_['error_name']             = 'Le nom du produit doit être supérieur à 1 et inférieur à 255 caractères !';
+$_['error_meta_title']       = 'Le titre de la méta-balise doit être supérieur à 1 et inférieur à 255 caractères !';
+$_['error_model']            = 'La référence du produit doit être supérieure à 1 et inférieur à 64 caractères !';
+$_['error_keyword']          = 'L&rsquo;URL SEO déjà utilisée !';
+$_['error_unique']           = 'L&rsquo;URL SEO doit être unique !';

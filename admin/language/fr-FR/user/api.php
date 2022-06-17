@@ -27,5 +27,5 @@ $_['entry_ip']             = 'IP';
 // Error
 $_['error_permission']     = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les API !';
 $_['error_username']       = 'Le nom de l&rsquo;API doit être compris entre 3 et 20 caractères !';
-$_['error_key']            = 'La clé API doit être compris entre 64 et 256 caractères!';
-$_['error_ip']             = 'Vous devez avoir au moins une adresse IP ajoutée à la liste autorisée!';
+$_['error_key']            = 'La clé API doit être compris entre 64 et 256 caractères !';
+$_['error_ip']             = 'Vous devez avoir au moins une adresse IP ajoutée à la liste autorisée !';

@@ -24,7 +24,7 @@ $_['entry_status']           = 'Statut du département';
 // Error
 $_['error_permission']       = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les départements !';
 $_['error_name']             = 'Le nom du département doit être compris entre 3 et 128 caractères !';
-$_['error_default']          = 'Attention : ce département ne peut être supprimé car il est actuellement attribué en tant que département par défaut de la boutique!';
+$_['error_default']          = 'Attention : ce département ne peut être supprimé car il est actuellement attribué en tant que département par défaut de la boutique !';
 $_['error_store']            = 'Attention : ce département ne peut être supprimé car il est actuellement attribué à %s boutiques !';
 $_['error_address']          = 'Attention : ce département ne peut être supprimé car il est actuellement attribué à %s entrées du carnet d&rsquo;adresses !';
 $_['error_zone_to_geo_zone'] = 'Attention : ce département ne peut être supprimé car il est actuellement attribué à %s département de zones géographiques !';

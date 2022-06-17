@@ -14,4 +14,4 @@ $_['text_cart']        = 'Panier d&rsquo;achat';
 $_['text_checkout']    = 'Valider la commande';
 $_['text_search']      = 'Rechercher';
 $_['text_information'] = 'Informations';
-$_['text_contact']     = 'Contactez nous';
+$_['text_contact']     = 'Contactez-nous';

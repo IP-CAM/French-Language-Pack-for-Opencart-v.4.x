@@ -29,7 +29,7 @@ $_['entry_module']        = 'Module';
 // Error
 $_['error_permission']    = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les dispositions !';
 $_['error_name']          = 'Le nom de la disposition doit être compris entre 3 et 64 caractères !';
-$_['error_module']        = 'Module requis!';
+$_['error_module']        = 'Module requis !';
 $_['error_default']       = 'Attention : cette disposition ne peut être supprimée car elle est actuellement définie comme disposition par défaut pour cette boutique !';
 $_['error_store']         = 'Attention : cette disposition ne peut être supprimée car elle est actuellement attribuée à %s boutiques !';
 $_['error_product']       = 'Attention : cette disposition ne peut être supprimée car elle est actuellement attribuée à %s produits !';

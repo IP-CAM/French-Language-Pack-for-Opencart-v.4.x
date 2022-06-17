@@ -46,11 +46,11 @@ $_['entry_status']         = 'Statut';
 $_['entry_sort_order']     = 'Ordre de tri';
 
 // Help
-$_['help_regex']           = 'Regex. par exemple: /[a-zA-Z0-9_-]/';
+$_['help_regex']           = 'Regex. Par exemple : /[a-zA-Z0-9_-]/';
 $_['help_sort_order']      = 'Utiliser le signe moins pour revenir au champ précédent.';
 
 // Error
-$_['error_permission']     = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les champs personnalisés!';
-$_['error_name']           = 'Le nom du champ personnalisé doit être compris entre 1 et 128 caractères!';
+$_['error_permission']     = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les champs personnalisés !';
+$_['error_name']           = 'Le nom du champ personnalisé doit être compris entre 1 et 128 caractères !';
 $_['error_type']           = 'Attention : les valeurs du champ personnalisé sont requises !';
-$_['error_custom_value']   = 'Le nom du champ personnalisé doit être compris entre 1 et 128 caractères!';
+$_['error_custom_value']   = 'Le nom du champ personnalisé doit être compris entre 1 et 128 caractères !';

@@ -1,7 +1,7 @@
 <?php
 // Heading
 $_['heading_title']     = 'Mise à niveau';
-$_['heading_success']   = 'Mise à niveau - Achevée!';
+$_['heading_success']   = 'Mise à niveau - Achevée !';
 
 // Text
 $_['text_upgrade']      = 'Préparez votre mise à niveau';
@@ -14,7 +14,7 @@ $_['text_user']         = 'Allez à Système -> Utilisateurs -> Groupes d&rsquo;
 $_['text_setting']      = 'Allez à Système et modifiez les principaux paramètres. Mettez à jour tous les champs et cliquez sur Enregistrer, même si rien n&rsquo;a changé.';
 $_['text_store']        = 'Chargez le front de la boutique et appuyez deux fois sur Ctrl+F5 pour forcer le navigateur à mettre à jour les modifications CSS.';
 $_['text_progress']     = 'Patch %s a été appliqué (%s de %s)';
-$_['text_success']      = 'Toutes nos félicitations! Vous avez mis à jour votre installation OpenCart avec succès!';
+$_['text_success']      = 'Toutes nos félicitations ! Vous avez mis à jour votre installation OpenCart avec succès !';
 
 // Entry
 $_['entry_progress']    = 'Progression';

@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Groupe d&rsquo;attributs';
 
 // Text
-$_['text_success']      = 'Succès : vous avez modifié le groupes d&rsquo;attributs !';
+$_['text_success']      = 'Succès : vous avez modifié le groupe d&rsquo;attributs !';
 $_['text_list']         = 'Liste des groupes d&rsquo;attributs';
 $_['text_add']          = 'Ajouter un groupe d&rsquo;attributs';
 $_['text_edit']         = 'Modifier un groupe d&rsquo;attributs';
