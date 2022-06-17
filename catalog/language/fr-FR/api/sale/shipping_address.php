@@ -5,7 +5,7 @@ $_['text_success']      = 'Succès : l&rsquo;adresse de livraison a été défin
 // Error
 $_['error_firstname']    = 'Le prénom doit comporter entre 1 et 32 caractères !';
 $_['error_lastname']     = 'Le nom de famille doit être compris entre 1 et 32 caractères !';
-$_['error_address_1']    = 'L&rsquo;adresse 1 doit être compris entre 3 et 128 caractères !';
+$_['error_address_1']    = 'L&rsquo;adresse 1 doit être comprise entre 3 et 128 caractères !';
 $_['error_city']         = 'La ville doit être comprise entre 3 et 128 caractères !';
 $_['error_postcode']     = 'Le code postal doit être compris entre 2 et 10 caractères pour ce pays !';
 $_['error_country']      = 'Veuillez sélectionner un pays !';
