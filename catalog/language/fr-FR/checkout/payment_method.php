@@ -1,32 +1,15 @@
 <?php
 // Heading
-$_['heading_title']         = 'Adresse de paiement';
+$_['heading_title']         = 'Méthode de paiement';
 
 // Text
-$_['text_address_new']      = 'Je souhaite utiliser une nouvelle adresse';
-$_['text_address_existing'] = 'Je souhaite utiliser une adresse existante';
-$_['text_success']          = 'Succès : vous avez changé d&rsquo;adresse de paiement !';
-
-// Entry
-$_['entry_address']         = 'Choisir l&rsquo;adresse';
-$_['entry_firstname']       = 'Prénom';
-$_['entry_lastname']        = 'Nom de famille';
-$_['entry_company']         = 'Société';
-$_['entry_address_1']       = 'Adresse 1';
-$_['entry_address_2']       = 'Adresse 2';
-$_['entry_postcode']        = 'Code postal';
-$_['entry_city']            = 'Ville';
-$_['entry_country']         = 'Pays';
-$_['entry_zone']            = 'Région /Département';
+$_['text_stored']           = 'Méthode de paiement enregistré';
+$_['text_comments']         = 'Ajouter des commentaires sur votre commande';
+$_['text_agree']            = 'J&rsquo;ai lu et j&rsquo;accepte les <a href="%s" class="modal-link"><b>%s</b></a>';
+$_['text_success']          = 'Succès : vous avez changé la méthode de paiement !';
+$_['text_comment']          = 'Succès : commentaire ajouté !';
 
 // Error
-$_['error_address']         = 'Attention : l&rsquo;adresse de paiement est introuvable !';
-$_['error_firstname']       = 'Le prénom doit être compris entre 1 et 32 caractères !';
-$_['error_lastname']        = 'Le nom de famille doit être compris entre 1 et 32 caractères !';
-$_['error_address_1']       = 'L&rsquo;adresse 1 doit être compris entre 3 et 128 caractères !';
-$_['error_city']            = 'La ville doit être compris entre 2 et 128 caractères !';
-$_['error_postcode']        = 'Le code postal doit être compris entre 2 et 10 caractères !';
-$_['error_country']         = 'Veuillez sélectionner un pays !';
-$_['error_zone']            = 'Veuillez sélectionner une région / un Département !';
-$_['error_custom_field']    = '%s requis !';
-$_['error_regex']           = '%s n&rsquo;est pas une entrée valide !';
+$_['error_payment_address'] = 'Attention : l&rsquo;adresse de paiement est requise !';
+$_['error_payment_method']  = 'Attention : méthode de paiement requis !';
+$_['error_no_payment']      = 'Attention : aucune option de paiement n&rsquo;est disponible. Veuillez <a href="%s">nous contacter</a> pour obtenir de l&rsquo;aide !';
