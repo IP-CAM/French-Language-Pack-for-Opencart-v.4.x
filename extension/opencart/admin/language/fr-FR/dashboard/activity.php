@@ -20,7 +20,7 @@ $_['text_activity_return_guest']   = '%s a soumis un produit <a href="return_id=
 $_['text_activity_order_account']  = '<a href="customer_id=%d">%s</a> a ajouté une <a href="order_id=%d"> nouvelle commande </a>.';
 $_['text_activity_order_guest']    = '%s a créé une <a href="order_id=%d"> nouvelle commande </a>.';
 $_['text_activity_affiliate_add']  = '<a href="customer_id=%d">%s</a> s&rsquo;est enregistré pour un compte affilié.';
-$_['text_activity_affiliate_edit'] = '<a href="customer_id=%d">%s</a> a mis à jour son informations d&rsquo;affiliation.';
+$_['text_activity_affiliate_edit'] = '<a href="customer_id=%d">%s</a> a mis à jour son information d&rsquo;affiliation.';
 $_['text_activity_transaction']    = '<a href="customer_id=%d">%s</a> a reçu une commission d&rsquo;une nouvelle <a href="order_id=%d"> commande </a>.';
 
 // Entry

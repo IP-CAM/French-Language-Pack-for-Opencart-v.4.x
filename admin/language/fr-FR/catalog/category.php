@@ -45,4 +45,5 @@ $_['error_name']             = 'Le nom de la catégorie doit être compris entre
 $_['error_meta_title']       = 'Le titre de la méta-balise doit être supérieur à 1 et inférieur à 255 caractères !';
 $_['error_parent']           = 'La catégorie parente que vous avez choisie est un enfant de la catégorie en cours !';
 $_['error_seo']              = 'Mot-clé URL SEO requis !';
-$_['error_keyword']          = 'L&rsquo;URL de référencement doit être unique !';
+$_['error_keyword']          = 'L&rsquo;URL SEO doit être comprise entre 1 et 64 caractères !';
+$_['error_keyword_exists']   = 'L&rsquo;URL SEO doit être unique !';

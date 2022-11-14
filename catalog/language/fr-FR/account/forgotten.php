@@ -8,7 +8,6 @@ $_['text_account']       = 'Compte';
 $_['text_forgotten']     = 'Mot de passe oublié';
 $_['text_your_email']    = 'E-mail';
 $_['text_email']         = 'Saisissez l&rsquo;adresse e-mail associée à votre compte. Cliquez sur soumettre pour que votre mot de passe vous soit envoyé par e-mail.';
-$_['text_success']       = 'Succès : un nouveau mot de passe a été envoyé à votre adresse e-mail.';
 $_['text_password']      = 'Entrez le nouveau mot de passe que vous souhaitez utiliser.';
 $_['text_success']       = 'Succès : votre mot de passe a été mis à jour avec succès.';
 

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Chèque / Mandat';
+$_['heading_title']    = 'Chèque / Mandat';
 
 // Text
 $_['text_instruction'] = 'Instructions de paiement';

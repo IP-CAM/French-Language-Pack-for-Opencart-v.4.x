@@ -35,6 +35,9 @@ $_['column_sort_order']     = 'Ordre de tri';
 $_['column_action']         = 'Action';
 
 // Help
+$_['help_trial_duration']   = 'La durée correspond au nombre de fois que l&rsquo;utilisateur effectuera un paiement.';
+$_['help_trial_cycle']      = 'Les montants des abonnements sont calculés en fonction de la fréquence et des cycles.';
+$_['help_trial_frequency']  = 'Si vous utilisez une fréquence de "semaine" et un cycle de "2", alors l&rsquo;utilisateur sera facturé toutes les 2 semaines.';
 $_['help_duration']         = 'La durée correspond au nombre de fois que l&rsquo;utilisateur effectuera un paiement, définissez-le sur 0 si vous souhaitez que les paiements soient annulés.';
 $_['help_cycle']            = 'Les montants des abonnements sont calculés en fonction de la fréquence et des cycles.';
 $_['help_frequency']        = 'Si vous utilisez une fréquence de "semaine" et un cycle de "2", alors l&rsquo;utilisateur sera facturé toutes les 2 semaines.';

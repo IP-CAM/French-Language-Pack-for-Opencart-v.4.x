@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Réussite RGPD';
+$_['heading_title'] = 'Succès RGPD';
 
 // Text
 $_['text_account']  = 'Compte';

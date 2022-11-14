@@ -1,5 +1,5 @@
 <?php
-// En-tête
+// Heading
 $_['heading_title']    = 'Virement bancaire';
 
 // Text

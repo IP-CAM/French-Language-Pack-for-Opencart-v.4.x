@@ -9,7 +9,7 @@ $_['text_add']              = 'Ajouter un client';
 $_['text_edit']             = 'Modifier un client';
 $_['text_default']          = 'Défaut';
 $_['text_store']            = 'Boutique';
-$_['text_account']          = 'Détails du client';
+$_['text_customer']          = 'Détails du client';
 $_['text_password']         = 'Mot de passe';
 $_['text_other']            = 'Autre';
 $_['text_balance']          = 'Solde';
@@ -73,7 +73,8 @@ $_['entry_amount']          = 'Montant';
 $_['entry_points']          = 'Points';
 $_['entry_name']            = 'Nom du client';
 $_['entry_ip']              = 'IP';
-$_['entry_date_added']      = 'Date d&rsquo;ajout';
+$_['entry_date_from']       = 'Date à partir de';
+$_['entry_date_to']         = 'Date jusqu&rsquo;à';
 
 // Button
 $_['button_order']          = 'Commandes';
@@ -100,3 +101,4 @@ $_['error_postcode']        = 'Attention : le code postal doit être compris ent
 $_['error_country']         = 'Veuillez sélectionner un pays !';
 $_['error_zone']            = 'Veuillez sélectionner une région !';
 $_['error_custom_field']    = '%s est requis !';
+$_['error_regex']           = '%s n&rsquo;est pas une entrée valide';

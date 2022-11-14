@@ -23,7 +23,8 @@ $_['entry_author']      = 'Auteur';
 $_['entry_rating']      = 'Note';
 $_['entry_status']      = 'Statut';
 $_['entry_text']        = 'Texte';
-$_['entry_date_added']  = 'Date d&rsquo;ajout';
+$_['entry_date_from']   = 'Date à partir de';
+$_['entry_date_to']     = 'Date jusqu&rsquo;à';
 
 // Help
 $_['help_product']      = 'Saisie semi-automatique';

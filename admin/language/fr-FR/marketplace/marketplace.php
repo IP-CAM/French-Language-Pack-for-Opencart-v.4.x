@@ -53,7 +53,6 @@ $_['text_delete']        = 'Supprimer';
 $_['text_more']          = 'voir plus de réponses...';
 $_['text_leave']         = 'voir plus de réponses...';
 $_['text_refresh']       = 'actualiser';
-$_['text_featured']      = 'En vedette';
 
 // Entry
 $_['entry_pin']          = 'PIN';

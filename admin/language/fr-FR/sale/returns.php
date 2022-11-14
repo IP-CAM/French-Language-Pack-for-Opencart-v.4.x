@@ -46,8 +46,8 @@ $_['entry_return_action']  = 'Action de retour';
 $_['entry_return_status']  = 'Statut des retours';
 $_['entry_notify']         = 'Informer le client';
 $_['entry_return_id']      = 'ID du retour';
-$_['entry_date_added']     = 'Date d&rsquo;ajout';
-$_['entry_date_modified']  = 'Date de modification';
+$_['entry_date_from']      = 'Date à partir de';
+$_['entry_date_to']        = 'Date jusqu&rsquo;à';
 
 // Help
 $_['help_product']         = 'Saisie semi-automatique';

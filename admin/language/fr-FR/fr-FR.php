@@ -52,7 +52,7 @@ $_['button_cancel']                 = 'Annuler';
 $_['button_subscription_cancel']    = 'Annuler un abonnement';
 $_['button_continue']               = 'Continuer';
 $_['button_confirm']                = 'Confirmer';
-$_['button_clear']                  = 'Effacer';
+$_['button_clear']                  = 'Supprimer';
 $_['button_close']                  = 'Fermer';
 $_['button_enable']                 = 'Activer';
 $_['button_disable']                = 'Désactiver';
@@ -119,8 +119,9 @@ $_['button_buy']                    = 'Acheter';
 $_['button_restore']                = 'Restaurer';
 $_['button_run']                    = 'Lancer un Cron Job';
 $_['button_backup']                 = 'Sauvegarde';
-$_['button_developer']              = 'Paramètres Développement';
+$_['button_developer']              = 'Paramètres du développeur';
 $_['button_master']                 = 'Produit principal';
+$_['button_resend']                 = 'Renvoyer';
 
 // Tab
 $_['tab_address']                   = 'Adresse';

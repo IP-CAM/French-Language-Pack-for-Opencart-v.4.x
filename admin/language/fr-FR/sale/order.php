@@ -111,8 +111,8 @@ $_['entry_shipping_method']  = 'Mode de livraison';
 $_['entry_payment_method']   = 'Moyen de paiement';
 $_['entry_order_id']         = 'Commande n°';
 $_['entry_total']            = 'Total';
-$_['entry_date_added']       = 'Date d&rsquo;ajout';
-$_['entry_date_modified']    = 'Date de modification';
+$_['entry_date_from']        = 'Date à partir de';
+$_['entry_date_to']          = 'Date jusqu&rsquo;à';
 
 // Help
 $_['help_override']          = 'Si la commande du client est bloquée sur le changement  de statut de la commande en raison d&rsquo;une extension anti-fraude - permettre d&rsquo;ignorer.';

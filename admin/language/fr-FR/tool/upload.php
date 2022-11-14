@@ -16,7 +16,8 @@ $_['column_action']      = 'Action';
 // Entry
 $_['entry_name']         = 'Nom du transfert';
 $_['entry_filename']     = 'Nom du fichier';
-$_['entry_date_added']   = 'Date d&rsquo;ajout';
+$_['entry_date_from']    = 'Date à partir de';
+$_['entry_date_to']      = 'Date jusqu&rsquo;à';
 
 // Error
 $_['error_permission']   = 'Attention : vous n&rsquo;êtes pas autorisé à modifier Transferts de fichiers !';

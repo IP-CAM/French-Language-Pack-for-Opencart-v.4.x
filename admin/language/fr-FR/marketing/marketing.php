@@ -29,7 +29,8 @@ $_['entry_name']        = 'Nom de la campagne';
 $_['entry_description'] = 'Libellé de la campagne';
 $_['entry_code']        = 'Code de suivi';
 $_['entry_example']     = 'Exemples';
-$_['entry_date_added']  = 'Date d&rsquo;ajout';
+$_['entry_date_from']   = 'Date à partir de';
+$_['entry_date_to']     = 'Date jusqu&rsquo;à';
 
 // Help
 $_['help_code']         = 'Le code qui sera utilisé pour le suivi des campagnes marketing.';

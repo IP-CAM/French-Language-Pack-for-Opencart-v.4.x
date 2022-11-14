@@ -29,7 +29,8 @@ $_['column_action']     = 'Action';
 $_['entry_email']       = 'E-Mail';
 $_['entry_action']      = 'Action';
 $_['entry_status']      = 'Statut';
-$_['entry_date_added']  = 'Date d&rsquo;ajout';
+$_['entry_date_from']   = 'Date à partir de';
+$_['entry_date_to']     = 'Date jusqu&rsquo;à';
 
 // Error
 $_['error_permission']  = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les approbations RGPD !';

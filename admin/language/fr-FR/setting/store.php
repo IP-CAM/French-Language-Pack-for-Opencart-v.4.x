@@ -97,6 +97,7 @@ $_['help_checkout_guest']              = 'Autoriser les clients à commander san
 $_['help_checkout']                    = 'Contraindre les clients à accepter les conditions générales avant qu&rsquo;un client puisse commander.';
 $_['help_stock_display']               = 'Afficher la quantité en stock sur la page des produits.';
 $_['help_stock_checkout']              = 'Autoriser les clients à passer commande même si les produits qu&rsquo;ils commandent ne sont pas en stock.';
+$_['help_product_count']               = 'Afficher le nombre de produits dans les sous-catégories dans le menu des catégories de l&rsquo;en-tête de la vitrine. Soyez averti, cela entraînera une baisse extrême des performances pour les boutiques avec beaucoup de sous-catégories !';
 
 // Error
 $_['error_warning']                    = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs !';
@@ -110,7 +111,6 @@ $_['error_email']                      = 'L&rsquo;adresse e-mail ne semble pas �
 $_['error_telephone']                  = 'Le téléphone doit être compris entre 3 et 32 caractères !';
 $_['error_product_description_length'] = 'Longueur de la description du produit requise !';
 $_['error_pagination']                 = 'Pagination requise !';
-$_['help_product_count']               = 'Afficher le nombre de produits dans les sous-catégories dans le menu des catégories de l&rsquo;en-tête de la vitrine. Soyez averti, cela entraînera une baisse extrême des performances pour les boutiques avec beaucoup de sous-catégories !';
 $_['error_customer_group_display']     = 'Vous devez inclure le groupe de clients par défaut si vous allez utiliser cette fonctionnalité !';
 $_['error_default']                    = 'Attention : vous ne pouvez pas supprimer votre boutique par défaut !';
 $_['error_store']                      = 'Attention : cette boutique ne peut pas être supprimée car elle est actuellement affectée a %s commandes !';

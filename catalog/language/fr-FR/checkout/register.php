@@ -11,6 +11,7 @@ $_['text_shipping_address']   = 'Adresse de livraison';
 $_['text_your_password']      = 'Votre mot de passe';
 $_['text_agree']              = 'J&rsquo;ai lu et j&rsquo;accepte les <a href="%s" class="modal-link"><b>%s</b></a>';
 $_['text_success_add']        = 'Succès : votre compte a été créé !';
+$_['text_success_guest']      = 'Succès : les informations de votre compte invité ont été enregistrées !';
 $_['text_success_edit']       = 'Succès : votre compte a été mis à jour avec succès.';
 
 // Entry

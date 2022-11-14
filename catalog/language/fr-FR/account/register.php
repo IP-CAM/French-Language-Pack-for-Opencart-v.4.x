@@ -32,5 +32,4 @@ $_['error_telephone']      = 'Le numéro de téléphone doit être compris entre
 $_['error_custom_field']   = '%s est requis !';
 $_['error_regex']          = '%s n&rsquo;est pas une entrée valide !';
 $_['error_password']       = 'Le mot de passe doit être compris entre 4 et 20 caractères !';
-$_['error_confirm']        = 'Le mot de passe et sa confirmation ne correspondent pas !';
 $_['error_agree']          = 'Attention : vous devez accepter les %s';

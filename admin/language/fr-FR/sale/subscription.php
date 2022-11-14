@@ -26,9 +26,6 @@ $_['text_week']                  = 'semaine';
 $_['text_semi_month']            = 'quinzaine';
 $_['text_month']                 = 'mois';
 $_['text_year']                  = 'année';
-
-
-
 $_['text_history']               = 'Historique';
 $_['text_history_add']           = 'Ajouter un historique';
 $_['text_transaction']           = 'Transactions';
@@ -61,10 +58,14 @@ $_['entry_description']          = 'Description';
 $_['entry_amount']               = 'Montant';
 $_['entry_notify']               = 'Notifier le client';
 $_['entry_override']             = 'Remplacer';
-$_['entry_comment']              = 'Commentaire';
-$_['entry_date_added']           = 'Date d&rsquo;ajout';
+$_['entry_date_from']            = 'Date à partir de';
+$_['entry_date_to']              = 'Date jusqu&rsquo;à';
 
 // Error
+$_['error_permission']           = 'Attention : Vous n&rsquo;êtes pas autorisé à modifier les abonnements !';
+$_['error_status']               = 'Erreur : Le statut de l&rsquo;abonnement ne correspond pas au statut de la boutique !';
 $_['error_subscription']         = 'Attention : l&rsquo;abonnement n&rsquo;existe pas !';
 $_['error_subscription_plan']    = 'Attention : le plan d&rsquo;abonnement n&rsquo;existe pas !';
+$_['error_subscription_status']  = 'Attention : le statut de l&rsquo;abonnement doit être sélectionné !';
 $_['error_payment_method']       = 'Attention : le mode de paiement n&rsquo;existe pas !';
+$_['error_service_type']         = 'Le statut du service n&rsquo;a pas été inclus dans cette transaction. Si vous voyez ce message d&rsquo;erreur, veuillez contacter le développeur de l&rsquo;extension qui gère les services d&rsquo;abonnement pour résoudre ce problème !';

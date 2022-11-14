@@ -56,7 +56,8 @@ $_['entry_bank_account_number'] = 'Numéro de compte';
 $_['entry_comment']             = 'Commentaire';
 $_['entry_description']         = 'Description';
 $_['entry_amount']              = 'Montant';
-$_['entry_date_added']          = 'Date d&rsquo;ajout';
+$_['entry_date_from']           = 'Date à partir de';
+$_['entry_date_to']             = 'Date jusqu&rsquo;à';
 
 // Help
 $_['help_tracking']             = 'Le code de suivi qui sera utilisé pour suivre les parrainages.';

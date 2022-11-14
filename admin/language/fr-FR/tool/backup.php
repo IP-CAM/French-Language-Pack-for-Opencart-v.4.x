@@ -30,3 +30,4 @@ $_['error_file']         = 'Impossible de trouver le fichier !';
 $_['error_directory']    = 'Répertoire introuvable !';
 $_['error_not_found']    = 'Erreur : Impossible de trouver le fichier %s !';
 $_['error_headers_sent'] = 'Erreur : les en-têtes ont déjà été envoyés !';
+$_['error_upload_size']  = 'Le fichier téléchargé ne peut pas dépasser %s !';

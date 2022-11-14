@@ -1,3 +1,4 @@
 <?php
 // Text
-$_['text_all'] = 'Afficher l&rsquo;intégralité';
+$_['text_category']  = 'Categories';
+$_['text_all']       = 'Afficher l&rsquo;intégralité';

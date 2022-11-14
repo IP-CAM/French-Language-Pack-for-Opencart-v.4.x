@@ -32,5 +32,4 @@ $_['error_storage_exists']     = 'Attention : le nom du dossier de stockage exis
 $_['error_admin']              = 'Attention : le répertoire Admin n&rsquo;existe pas !';
 $_['error_admin_exists']       = 'Attention : le nom du dossier Admin existe déjà !';
 $_['error_admin_name']         = 'Attention : le nom de l&rsquo;administrateur ne peut pas être `admin` car il est accessible au public !';
-$_['error_exists']             = 'Attention : le répertoire existe déjà !';
 $_['error_writable']           = 'Attention : config.php et admin / config.php doivent être accessibles en écriture !';
